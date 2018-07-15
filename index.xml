@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will&#39;s Dev Journey</title>
-    <link>http://localhost:1313/</link>
+    <link>https://willsmile.github.io/</link>
     <description>Recent content on Will&#39;s Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Jul 2018 17:06:29 +0900</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://willsmile.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://willsmile.github.io/about/</link>
       <pubDate>Sun, 15 Jul 2018 17:06:29 +0900</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://willsmile.github.io/about/</guid>
       
         <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
 
@@ -36,10 +36,10 @@
     
     <item>
       <title>Vnote App</title>
-      <link>http://localhost:1313/post/vnote-app-introduction/</link>
+      <link>https://willsmile.github.io/post/vnote-app-introduction/</link>
       <pubDate>Sun, 15 Jul 2018 17:06:29 +0900</pubDate>
       
-      <guid>http://localhost:1313/post/vnote-app-introduction/</guid>
+      <guid>https://willsmile.github.io/post/vnote-app-introduction/</guid>
       
         <description></description>
       
