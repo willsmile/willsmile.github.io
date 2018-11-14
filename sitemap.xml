@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</loc>
+    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://willsmile.github.io/post/pivacy-policy-of-vnote/</loc>
     <lastmod>2018-10-11T20:30:26+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://willsmile.github.io/tags/learning/</loc>
+    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willsmile.github.io/post/</loc>
     <lastmod>2018-07-15T17:06:29+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,7 +51,15 @@
   </url>
   
   <url>
+    <loc>https://willsmile.github.io/tags/swift/</loc>
+    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://willsmile.github.io/tags/</loc>
+    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

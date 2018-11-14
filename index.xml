@@ -68,6 +68,47 @@
     </item>
     
     <item>
+      <title>Learning Resources of Swift Language (Structured)</title>
+      <link>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</link>
+      <pubDate>Tue, 13 Nov 2018 13:43:46 +0900</pubDate>
+      
+      <guid>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;beginner&#34;&gt;Beginner&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html&#34;&gt;Official language guide&lt;/a&gt; by Swift.org&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/ios-12-app-development-bootcamp/&#34;&gt;Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo;&lt;/a&gt; @Udemy by Angela Yu&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=A0C6L4XmrZM&#34;&gt;Video &amp;ldquo;Introduction to Swift&amp;rdquo;&lt;/a&gt; @Apple WWDC 2014, by Tim Isted and Dave Addey&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;intermediate&#34;&gt;Intermediate&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://onev.cat/publication/swifter/&#34;&gt;Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;rdquo;&lt;/a&gt; by Wei Wang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/改訂新版-Swift実践入門-直感的な文法と安全性を兼ね備えた言語-PRESS-plus/dp/477419414X&#34;&gt;Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;rdquo;&lt;/a&gt; by 石川洋資，西山勇世&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/詳解-Swift-第4版-荻原-剛志/dp/4797395184&#34;&gt;Book &amp;ldquo;詳解Swift (in Japanese)&amp;rdquo;&lt;/a&gt; by 荻原剛志&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2015/408/&#34;&gt;Video &amp;ldquo;Protocol-Oriented Programming in Swift&amp;rdquo;&lt;/a&gt; @Apple WWDC 2015, by Dave Abrahams&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2015/414/&#34;&gt;Video &amp;ldquo;Building Better Apps with Value Types in Swift&amp;rdquo;&lt;/a&gt; @Apple WWDC 2015, by Doug Gregor and Bill Dudney&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://store.raywenderlich.com/products/design-patterns-by-tutorials&#34;&gt;Book &amp;ldquo;Design Patterns by Tutorials&amp;rdquo;&lt;/a&gt; by Joshua Greene and Jay Strawn&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift&#34;&gt;Book &amp;ldquo;Data Structures and Algorithms in Swift&amp;rdquo;&lt;/a&gt; by Kelvin Lau and Vincent Ngo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced&#34;&gt;Advanced&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://talk.objc.io&#34;&gt;Video series &amp;ldquo;Swift Talk&amp;rdquo;&lt;/a&gt; @objc.io&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.objc.io/books/advanced-swift/&#34;&gt;Book &amp;ldquo;Advanced Swift&amp;rdquo;&lt;/a&gt; by Chris Eidhof, Ole Begemann, and Airspeed Velocity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.objc.io/books/functional-swift/&#34;&gt;Book &amp;ldquo;Functional Swift&amp;rdquo;&lt;/a&gt; by Chris Eidhof, Florian Kugler, and Wouter Swierstra&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.objc.io/books/app-architecture/&#34;&gt;Book &amp;ldquo;App Architecture&amp;rdquo;&lt;/a&gt; by Chris Eidhof, Matt Gallagher, and Florian Kugler&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Privacy Policy of Vnote App</title>
       <link>https://willsmile.github.io/post/pivacy-policy-of-vnote/</link>
       <pubDate>Thu, 11 Oct 2018 20:30:26 +0900</pubDate>
