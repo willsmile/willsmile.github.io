@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</loc>
+    <lastmod>2018-11-17T17:49:50+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</loc>
     <lastmod>2018-11-13T13:43:46+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,7 +45,7 @@
   
   <url>
     <loc>https://willsmile.github.io/tags/learning/</loc>
-    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
+    <lastmod>2018-11-17T17:49:50+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -52,14 +59,14 @@
   
   <url>
     <loc>https://willsmile.github.io/tags/swift/</loc>
-    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
+    <lastmod>2018-11-17T17:49:50+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://willsmile.github.io/tags/</loc>
-    <lastmod>2018-11-13T13:43:46+09:00</lastmod>
+    <lastmod>2018-11-17T17:49:50+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

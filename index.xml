@@ -68,6 +68,43 @@
     </item>
     
     <item>
+      <title>Learning Resources of Swift Language (Unstructured)</title>
+      <link>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</link>
+      <pubDate>Sat, 17 Nov 2018 17:49:50 +0900</pubDate>
+      
+      <guid>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;text-based&#34;&gt;Text-based&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.swiftbysundell.com&#34;&gt;Swift by Sundell&lt;/a&gt; by John Sundell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iosdevweekly.com&#34;&gt;iOS Dev Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://swiftdeveloperblog.com&#34;&gt;Swift Developer Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://oleb.net&#34;&gt;Ole Begemann&amp;rsquo;s Blog&lt;/a&gt; by Ole Begemann&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;video-based&#34;&gt;Video-based&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw&#34;&gt;Sean Allen&amp;rsquo;s iOS Dev Videos&lt;/a&gt; by Sean Allen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA&#34;&gt;Lets Build That App&lt;/a&gt; by Brian Voong&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg&#34;&gt;Big Mountain Studio&lt;/a&gt; by Mark Moeykens&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;audio-based&#34;&gt;Audio-based&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/swift-by-sundell/id1267161825?mt=2&#34;&gt;Swift by Sundell&lt;/a&gt; by John Sundell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2&#34;&gt;Swift Unwrapped&lt;/a&gt; by Spec&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/swift-over-coffee/id1435076502?mt=2&#34;&gt;Swift over Coffee&lt;/a&gt; by Paul Hudson and Sean Allen&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Learning Resources of Swift Language (Structured)</title>
       <link>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</link>
       <pubDate>Tue, 13 Nov 2018 13:43:46 +0900</pubDate>
