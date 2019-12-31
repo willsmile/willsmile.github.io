@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Will&#39;s Dev Journey</title>
+    <link>https://willsmile.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Will&#39;s Dev Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Dec 2018 10:32:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://willsmile.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arch Linux Installation on X280</title>
+      <link>https://willsmile.github.io/post/2018/2018-12-23-arch-linux-installation-on-x280/</link>
+      <pubDate>Sun, 23 Dec 2018 10:32:34 +0900</pubDate>
+      
+      <guid>https://willsmile.github.io/post/2018/2018-12-23-arch-linux-installation-on-x280/</guid>
+      <description>Set font to a larger one setfont sun12x22
+Test network environment ping google.com -c 3
+Prepare partitions fdisk /dev/nvme0n1
+Swap: /dev/nvme0n1p5 -&amp;gt; 16G Root: /dev/nvme0n1p6 -&amp;gt; 60G Home: /dev/nvme0n1p7 -&amp;gt; 34G
+Create filesystem mkswap /dev/nvme0n1p5 mkfs.ext4 /dev/nvme0n1p6 mkfs.ext4 /dev/nvme0n1p7
+Mount partitions swapon /dev/nvme0n1p5 mount /dev/nvme0n1p6 /mnt mkdir /mnt/home mount /dev/nvme0n1p7 /mnt/home
+Install Arch Linux base system pacstrap /mnt/ base base-devel
+Create fstab genfstab /mnt &amp;raquo; /mnt/etc/fstab cat /mnt/etc/fstab
+Configure Arch Linux arch-chroot /mnt echo &amp;ldquo;arch-arya&amp;rdquo; &amp;gt; /etc/hostname vi /etc/hosts</description>
+    </item>
+    
+  </channel>
+</rss>
