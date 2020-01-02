@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Will&#39;s Dev Journey</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Will&#39;s Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jul 2018 17:06:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Dec 2018 10:32:34 +0900</lastBuildDate>
     
 	<atom:link href="https://willsmile.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,29 @@
     </item>
     
     <item>
+      <title>Arch Linux Installation on X280</title>
+      <link>https://willsmile.github.io/post/2018/2018-12-23-arch-linux-installation-on-x280/</link>
+      <pubDate>Sun, 23 Dec 2018 10:32:34 +0900</pubDate>
+      
+      <guid>https://willsmile.github.io/post/2018/2018-12-23-arch-linux-installation-on-x280/</guid>
+      <description>Set font to a larger one setfont sun12x22
+Test network environment ping google.com -c 3
+Prepare partitions fdisk /dev/nvme0n1
+Swap: /dev/nvme0n1p5 -&amp;gt; 16G Root: /dev/nvme0n1p6 -&amp;gt; 60G Home: /dev/nvme0n1p7 -&amp;gt; 34G
+Create filesystem mkswap /dev/nvme0n1p5 mkfs.ext4 /dev/nvme0n1p6 mkfs.ext4 /dev/nvme0n1p7
+Mount partitions swapon /dev/nvme0n1p5 mount /dev/nvme0n1p6 /mnt mkdir /mnt/home mount /dev/nvme0n1p7 /mnt/home
+Install Arch Linux base system pacstrap /mnt/ base base-devel
+Create fstab genfstab /mnt &amp;raquo; /mnt/etc/fstab cat /mnt/etc/fstab
+Configure Arch Linux arch-chroot /mnt echo &amp;ldquo;arch-arya&amp;rdquo; &amp;gt; /etc/hostname vi /etc/hosts</description>
+    </item>
+    
+    <item>
       <title>Learning Resources of Swift Language (Unstructured)</title>
       <link>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</link>
       <pubDate>Sat, 17 Nov 2018 17:49:50 +0900</pubDate>
       
       <guid>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</guid>
-      <description> Text-based  Swift by Sundell by John Sundell iOS Dev Weekly Swift Developer Blog Ole Begemann&amp;rsquo;s Blog by Ole Begemann  Video-based  Sean Allen&amp;rsquo;s iOS Dev Videos by Sean Allen Lets Build That App by Brian Voong Big Mountain Studio by Mark Moeykens  Audio-based  Swift by Sundell by John Sundell Swift Unwrapped by Spec Swift over Coffee by Paul Hudson and Sean Allen  </description>
+      <description>Text-based  Swift by Sundell by John Sundell iOS Dev Weekly Swift Developer Blog Ole Begemann&#39;s Blog by Ole Begemann  Video-based  Sean Allen&#39;s iOS Dev Videos by Sean Allen Lets Build That App by Brian Voong Big Mountain Studio by Mark Moeykens  Audio-based  Swift by Sundell by John Sundell Swift Unwrapped by Spec Swift over Coffee by Paul Hudson and Sean Allen  </description>
     </item>
     
     <item>
@@ -35,7 +52,7 @@
       <pubDate>Tue, 13 Nov 2018 13:43:46 +0900</pubDate>
       
       <guid>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</guid>
-      <description>Beginner Official language guide by Swift.org Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo; @Udemy by Angela Yu Video &amp;ldquo;Introduction to Swift&amp;rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;rdquo; by Wei Wang Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;rdquo; by 石川洋資，西山</description>
+      <description>Beginner Official language guide by Swift.org Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo; @Udemy by Angela Yu Video &amp;ldquo;Introduction to Swift&amp;rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;quot; by Wei Wang Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;quot; by 石川洋資，西山</description>
     </item>
     
     <item>

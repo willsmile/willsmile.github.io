@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on Will&#39;s Dev Journey</title>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 17 Nov 2018 17:49:50 +0900</pubDate>
       
       <guid>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</guid>
-      <description> Text-based  Swift by Sundell by John Sundell iOS Dev Weekly Swift Developer Blog Ole Begemann&amp;rsquo;s Blog by Ole Begemann  Video-based  Sean Allen&amp;rsquo;s iOS Dev Videos by Sean Allen Lets Build That App by Brian Voong Big Mountain Studio by Mark Moeykens  Audio-based  Swift by Sundell by John Sundell Swift Unwrapped by Spec Swift over Coffee by Paul Hudson and Sean Allen  </description>
+      <description>Text-based  Swift by Sundell by John Sundell iOS Dev Weekly Swift Developer Blog Ole Begemann&#39;s Blog by Ole Begemann  Video-based  Sean Allen&#39;s iOS Dev Videos by Sean Allen Lets Build That App by Brian Voong Big Mountain Studio by Mark Moeykens  Audio-based  Swift by Sundell by John Sundell Swift Unwrapped by Spec Swift over Coffee by Paul Hudson and Sean Allen  </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 13 Nov 2018 13:43:46 +0900</pubDate>
       
       <guid>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</guid>
-      <description>Beginner Official language guide by Swift.org Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo; @Udemy by Angela Yu Video &amp;ldquo;Introduction to Swift&amp;rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;rdquo; by Wei Wang Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;rdquo; by 石川洋資，西山</description>
+      <description>Beginner Official language guide by Swift.org Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo; @Udemy by Angela Yu Video &amp;ldquo;Introduction to Swift&amp;rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;quot; by Wei Wang Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;quot; by 石川洋資，西山</description>
     </item>
     
   </channel>

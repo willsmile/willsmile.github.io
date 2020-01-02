@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Learning Resources of Swift Language (Structured) - Will&#39;s Dev Journey</title>
+  <title>Arch Linux Installation on X280 - Will&#39;s Dev Journey</title>
   <link rel="alternate" hreflang="en" href="https://willsmile.github.io" />
 
 <meta name="renderer" content="webkit" />
@@ -25,7 +25,15 @@
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="author" content="Wei Chen" />
-  <meta name="description" content="Beginner Official language guide by Swift.org Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo; @Udemy by Angela Yu Video &amp;ldquo;Introduction to Swift&amp;rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;quot; by Wei Wang Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;quot; by 石川洋資，西山" />
+  <meta name="description" content="Set font to a larger one setfont sun12x22
+Test network environment ping google.com -c 3
+Prepare partitions fdisk /dev/nvme0n1
+Swap: /dev/nvme0n1p5 -&amp;gt; 16G Root: /dev/nvme0n1p6 -&amp;gt; 60G Home: /dev/nvme0n1p7 -&amp;gt; 34G
+Create filesystem mkswap /dev/nvme0n1p5 mkfs.ext4 /dev/nvme0n1p6 mkfs.ext4 /dev/nvme0n1p7
+Mount partitions swapon /dev/nvme0n1p5 mount /dev/nvme0n1p6 /mnt mkdir /mnt/home mount /dev/nvme0n1p7 /mnt/home
+Install Arch Linux base system pacstrap /mnt/ base base-devel
+Create fstab genfstab /mnt &amp;raquo; /mnt/etc/fstab cat /mnt/etc/fstab
+Configure Arch Linux arch-chroot /mnt echo &amp;ldquo;arch-arya&amp;rdquo; &amp;gt; /etc/hostname vi /etc/hosts" />
 
   <meta name="keywords" content="Wei Chen, app, Vnote, development" />
 
@@ -37,7 +45,7 @@
 <meta name="generator" content="Hugo 0.62.1" />
 
 
-<link rel="canonical" href="https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/" />
+<link rel="canonical" href="https://willsmile.github.io/post/2018/2018-12-23-arch-linux-installation-on-x280/" />
 
 
 
@@ -59,23 +67,47 @@
 <link rel="stylesheet" href="/css/custom.css">
 
 
-<meta property="og:title" content="Learning Resources of Swift Language (Structured)" />
-<meta property="og:description" content="Beginner Official language guide by Swift.org Video course &ldquo;iOS 12 app development bootcamp&rdquo; @Udemy by Angela Yu Video &ldquo;Introduction to Swift&rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &ldquo;Swifter - Swift Must Know Tips (in Chinese)&quot; by Wei Wang Book &ldquo;Swift実践入門 (in Japanese)&quot; by 石川洋資，西山" />
+<meta property="og:title" content="Arch Linux Installation on X280" />
+<meta property="og:description" content="Set font to a larger one setfont sun12x22
+Test network environment ping google.com -c 3
+Prepare partitions fdisk /dev/nvme0n1
+Swap: /dev/nvme0n1p5 -&gt; 16G Root: /dev/nvme0n1p6 -&gt; 60G Home: /dev/nvme0n1p7 -&gt; 34G
+Create filesystem mkswap /dev/nvme0n1p5 mkfs.ext4 /dev/nvme0n1p6 mkfs.ext4 /dev/nvme0n1p7
+Mount partitions swapon /dev/nvme0n1p5 mount /dev/nvme0n1p6 /mnt mkdir /mnt/home mount /dev/nvme0n1p7 /mnt/home
+Install Arch Linux base system pacstrap /mnt/ base base-devel
+Create fstab genfstab /mnt &raquo; /mnt/etc/fstab cat /mnt/etc/fstab
+Configure Arch Linux arch-chroot /mnt echo &ldquo;arch-arya&rdquo; &gt; /etc/hostname vi /etc/hosts" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/" />
-<meta property="article:published_time" content="2018-11-13T13:43:46+09:00" />
-<meta property="article:modified_time" content="2018-11-13T13:43:46+09:00" />
-<meta itemprop="name" content="Learning Resources of Swift Language (Structured)">
-<meta itemprop="description" content="Beginner Official language guide by Swift.org Video course &ldquo;iOS 12 app development bootcamp&rdquo; @Udemy by Angela Yu Video &ldquo;Introduction to Swift&rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &ldquo;Swifter - Swift Must Know Tips (in Chinese)&quot; by Wei Wang Book &ldquo;Swift実践入門 (in Japanese)&quot; by 石川洋資，西山">
-<meta itemprop="datePublished" content="2018-11-13T13:43:46&#43;09:00" />
-<meta itemprop="dateModified" content="2018-11-13T13:43:46&#43;09:00" />
-<meta itemprop="wordCount" content="186">
+<meta property="og:url" content="https://willsmile.github.io/post/2018/2018-12-23-arch-linux-installation-on-x280/" />
+<meta property="article:published_time" content="2018-12-23T10:32:34+09:00" />
+<meta property="article:modified_time" content="2018-12-23T10:32:34+09:00" />
+<meta itemprop="name" content="Arch Linux Installation on X280">
+<meta itemprop="description" content="Set font to a larger one setfont sun12x22
+Test network environment ping google.com -c 3
+Prepare partitions fdisk /dev/nvme0n1
+Swap: /dev/nvme0n1p5 -&gt; 16G Root: /dev/nvme0n1p6 -&gt; 60G Home: /dev/nvme0n1p7 -&gt; 34G
+Create filesystem mkswap /dev/nvme0n1p5 mkfs.ext4 /dev/nvme0n1p6 mkfs.ext4 /dev/nvme0n1p7
+Mount partitions swapon /dev/nvme0n1p5 mount /dev/nvme0n1p6 /mnt mkdir /mnt/home mount /dev/nvme0n1p7 /mnt/home
+Install Arch Linux base system pacstrap /mnt/ base base-devel
+Create fstab genfstab /mnt &raquo; /mnt/etc/fstab cat /mnt/etc/fstab
+Configure Arch Linux arch-chroot /mnt echo &ldquo;arch-arya&rdquo; &gt; /etc/hostname vi /etc/hosts">
+<meta itemprop="datePublished" content="2018-12-23T10:32:34&#43;09:00" />
+<meta itemprop="dateModified" content="2018-12-23T10:32:34&#43;09:00" />
+<meta itemprop="wordCount" content="144">
 
 
 
-<meta itemprop="keywords" content="Swift,Learning," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Learning Resources of Swift Language (Structured)"/>
-<meta name="twitter:description" content="Beginner Official language guide by Swift.org Video course &ldquo;iOS 12 app development bootcamp&rdquo; @Udemy by Angela Yu Video &ldquo;Introduction to Swift&rdquo; @Apple WWDC 2014, by Tim Isted and Dave Addey Intermediate Book &ldquo;Swifter - Swift Must Know Tips (in Chinese)&quot; by Wei Wang Book &ldquo;Swift実践入門 (in Japanese)&quot; by 石川洋資，西山"/>
+<meta itemprop="keywords" content="Linux," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Arch Linux Installation on X280"/>
+<meta name="twitter:description" content="Set font to a larger one setfont sun12x22
+Test network environment ping google.com -c 3
+Prepare partitions fdisk /dev/nvme0n1
+Swap: /dev/nvme0n1p5 -&gt; 16G Root: /dev/nvme0n1p6 -&gt; 60G Home: /dev/nvme0n1p7 -&gt; 34G
+Create filesystem mkswap /dev/nvme0n1p5 mkfs.ext4 /dev/nvme0n1p6 mkfs.ext4 /dev/nvme0n1p7
+Mount partitions swapon /dev/nvme0n1p5 mount /dev/nvme0n1p6 /mnt mkdir /mnt/home mount /dev/nvme0n1p7 /mnt/home
+Install Arch Linux base system pacstrap /mnt/ base base-devel
+Create fstab genfstab /mnt &raquo; /mnt/etc/fstab cat /mnt/etc/fstab
+Configure Arch Linux arch-chroot /mnt echo &ldquo;arch-arya&rdquo; &gt; /etc/hostname vi /etc/hosts"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -310,12 +342,12 @@
           <article class="post bg-white">
     
     <header class="post-header">
-      <h1 class="post-title">Learning Resources of Swift Language (Structured)</h1>
+      <h1 class="post-title">Arch Linux Installation on X280</h1>
       
       <div class="post-meta">
-        <span class="post-time"> 2018-11-13 </span>
+        <span class="post-time"> 2018-12-23 </span>
         
-        <span class="more-meta"> 186 words </span>
+        <span class="more-meta"> 144 words </span>
         <span class="more-meta"> 1 min read </span>
       </div>
     </header>
@@ -325,29 +357,58 @@
 
     
     <div class="post-content">
-      <h2 id="beginner">Beginner</h2>
-<ul>
-<li><a href="https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html">Official language guide</a> by Swift.org</li>
-<li><a href="https://www.udemy.com/ios-12-app-development-bootcamp/">Video course &ldquo;iOS 12 app development bootcamp&rdquo;</a> @Udemy by Angela Yu</li>
-<li><a href="https://www.youtube.com/watch?v=A0C6L4XmrZM">Video &ldquo;Introduction to Swift&rdquo;</a> @Apple WWDC 2014, by Tim Isted and Dave Addey</li>
-</ul>
-<h2 id="intermediate">Intermediate</h2>
-<ul>
-<li><a href="https://onev.cat/publication/swifter/">Book &ldquo;Swifter - Swift Must Know Tips (in Chinese)&quot;</a> by Wei Wang</li>
-<li><a href="https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-Swift%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80-%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AA%E6%96%87%E6%B3%95%E3%81%A8%E5%AE%89%E5%85%A8%E6%80%A7%E3%82%92%E5%85%BC%E3%81%AD%E5%82%99%E3%81%88%E3%81%9F%E8%A8%80%E8%AA%9E-PRESS-plus/dp/477419414X">Book &ldquo;Swift実践入門 (in Japanese)&quot;</a> by 石川洋資，西山勇世</li>
-<li><a href="https://www.amazon.co.jp/%E8%A9%B3%E8%A7%A3-Swift-%E7%AC%AC4%E7%89%88-%E8%8D%BB%E5%8E%9F-%E5%89%9B%E5%BF%97/dp/4797395184">Book &ldquo;詳解Swift (in Japanese)&quot;</a> by 荻原剛志</li>
-<li><a href="https://developer.apple.com/videos/play/wwdc2015/408/">Video &ldquo;Protocol-Oriented Programming in Swift&rdquo;</a> @Apple WWDC 2015, by Dave Abrahams</li>
-<li><a href="https://developer.apple.com/videos/play/wwdc2015/414/">Video &ldquo;Building Better Apps with Value Types in Swift&rdquo;</a> @Apple WWDC 2015, by Doug Gregor and Bill Dudney</li>
-<li><a href="https://store.raywenderlich.com/products/design-patterns-by-tutorials">Book &ldquo;Design Patterns by Tutorials&rdquo;</a> by Joshua Greene and Jay Strawn</li>
-<li><a href="https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift">Book &ldquo;Data Structures and Algorithms in Swift&rdquo;</a> by Kelvin Lau and Vincent Ngo</li>
-</ul>
-<h2 id="advanced">Advanced</h2>
-<ul>
-<li><a href="https://talk.objc.io">Video series &ldquo;Swift Talk&rdquo;</a> @objc.io</li>
-<li><a href="https://www.objc.io/books/advanced-swift/">Book &ldquo;Advanced Swift&rdquo;</a> by Chris Eidhof, Ole Begemann, and Airspeed Velocity</li>
-<li><a href="https://www.objc.io/books/functional-swift/">Book &ldquo;Functional Swift&rdquo;</a> by Chris Eidhof, Florian Kugler, and Wouter Swierstra</li>
-<li><a href="https://www.objc.io/books/app-architecture/">Book &ldquo;App Architecture&rdquo;</a> by Chris Eidhof, Matt Gallagher, and Florian Kugler</li>
-</ul>
+      <h3 id="set-font-to-a-larger-one">Set font to a larger one</h3>
+<p>setfont sun12x22</p>
+<h3 id="test-network-environment">Test network environment</h3>
+<p>ping google.com -c 3</p>
+<h3 id="prepare-partitions">Prepare partitions</h3>
+<p>fdisk /dev/nvme0n1</p>
+<p>Swap:
+/dev/nvme0n1p5 -&gt; 16G
+Root:
+/dev/nvme0n1p6 -&gt; 60G
+Home:
+/dev/nvme0n1p7 -&gt; 34G</p>
+<h3 id="create-filesystem">Create filesystem</h3>
+<p>mkswap /dev/nvme0n1p5
+mkfs.ext4 /dev/nvme0n1p6
+mkfs.ext4 /dev/nvme0n1p7</p>
+<h3 id="mount-partitions">Mount partitions</h3>
+<p>swapon /dev/nvme0n1p5
+mount /dev/nvme0n1p6 /mnt
+mkdir /mnt/home
+mount /dev/nvme0n1p7 /mnt/home</p>
+<h3 id="install-arch-linux-base-system">Install Arch Linux base system</h3>
+<p>pacstrap /mnt/ base base-devel</p>
+<h3 id="create-fstab">Create fstab</h3>
+<p>genfstab /mnt &raquo; /mnt/etc/fstab
+cat /mnt/etc/fstab</p>
+<h3 id="configure-arch-linux">Configure Arch Linux</h3>
+<p>arch-chroot /mnt
+echo &ldquo;arch-arya&rdquo; &gt; /etc/hostname
+vi /etc/hosts</p>
+<p>vi /etc/locale.gen
+locale-gen
+echo LANG=en_US.UTF-8 &gt; /etc/locale.conf
+export LANG=en_US.UTF-8</p>
+<p>ln -sf /usr/share/zoneinfo/Asia/Tokyo /etc/localtime
+hwclock &ndash;systohc &ndash;utc</p>
+<p>passwd
+useradd -mg users -G wheel,storage,power -s /bin/bash your_new_user
+passwd your_new_user
+chage -d 0 your_new_user</p>
+<p>mkinitcpio -p linux</p>
+<p>systemctl start dhcpcd
+systemctl enable dhcpcd</p>
+<p>pacman -S grub efibootmgr os-prober
+mkdir /boot/EFI
+mount /dev/nvme0n1p1 /boot/EFI
+grub-install &ndash;target=x86_64-efi  &ndash;bootloader-id=grub_uefi &ndash;recheck</p>
+<p>pacman -S intel-ucode
+grub-mkconfig -o /boot/grub/grub.cfg</p>
+<p>umount -R /mnt
+exit
+reboot</p>
 
     </div>
 
@@ -360,7 +421,7 @@
   </p>
   <p class="copyright-item">
     <span class="item-title">LastMod</span>
-    <span class="item-content">2018-11-13</span>
+    <span class="item-content">2018-12-23</span>
   </p>
   
   <p class="copyright-item">
@@ -375,23 +436,21 @@
     <footer class="post-footer">
       <div class="post-tags">
           
-          <a href="/tags/swift/">Swift</a>
-          
-          <a href="/tags/learning/">Learning</a>
+          <a href="/tags/linux/">Linux</a>
           
         </div>
 
       
       <nav class="post-nav">
         
-          <a class="prev" href="/post/2018/2018-11-17-swift-learning-resources-2/">
+          <a class="prev" href="/post/vnote-app-introduction/">
             <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">Learning Resources of Swift Language (Unstructured)</span>
+            <span class="prev-text nav-default">Vnote App</span>
             <span class="prev-text nav-mobile">Prev</span>
           </a>
         
-          <a class="next" href="/post/pivacy-policy-of-vnote/">
-            <span class="next-text nav-default">Privacy Policy of Vnote App</span>
+          <a class="next" href="/post/2018/2018-11-17-swift-learning-resources-2/">
+            <span class="next-text nav-default">Learning Resources of Swift Language (Unstructured)</span>
             <span class="prev-text nav-mobile">Next</span>
             <i class="iconfont icon-right"></i>
           </a>

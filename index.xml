@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will&#39;s Dev Journey</title>
@@ -6,7 +5,7 @@
     <description>Recent content on Will&#39;s Dev Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jul 2018 17:06:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Dec 2018 10:32:34 +0900</lastBuildDate>
     
         <atom:link href="https://willsmile.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,142 +17,19 @@
       
       <guid>https://willsmile.github.io/about/</guid>
       
-        <description>&lt;p&gt;Welcome to Will&amp;rsquo;s Dev Journey.&lt;/p&gt;
+        <description>&lt;p&gt;Welcome to Will&#39;s Dev Journey.&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
-      <title>Vnote App</title>
-      <link>https://willsmile.github.io/post/vnote-app-introduction/</link>
-      <pubDate>Sun, 15 Jul 2018 17:06:29 +0900</pubDate>
+      <title>Posts</title>
+      <link>https://willsmile.github.io/post/</link>
+      <pubDate>Sun, 23 Dec 2018 10:32:34 +0900</pubDate>
       
-      <guid>https://willsmile.github.io/post/vnote-app-introduction/</guid>
+      <guid>https://willsmile.github.io/post/</guid>
       
-        <description>
-
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://willsmile.github.io/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;box&#34; &gt;
-  &lt;figure class=&#34;center&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-    &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://willsmile.github.io/images/Vnote_small.png&#34; /&gt;
-    &lt;/div&gt;
-    &lt;a href=&#34;https://willsmile.github.io/images/Vnote_small.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-      &lt;figcaption&gt;&lt;h4&gt;Vnote: A multi-language note for vocabularies&lt;/h4&gt;
-      &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;intention&#34;&gt;Intention:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To provide a medium for people to &lt;em&gt;connect&lt;/em&gt;, &lt;em&gt;explore&lt;/em&gt; and &lt;em&gt;understand&lt;/em&gt; the world, with diverse words and languages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Meet&lt;/em&gt;&lt;/strong&gt; with friends all over world, and ask them to teach some vocabularies from their own languages&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Learn&lt;/em&gt;&lt;/strong&gt; by text, audio and image to enhance the memory of vocabularies&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Share&lt;/em&gt;&lt;/strong&gt; through beautiful image and video saved in Photo Library&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;download&#34;&gt;Download:&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/vnote-multi-language-note/id1409599797&#34;&gt;Vnote - Multi-language Note&lt;/a&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Learning Resources of Swift Language (Unstructured)</title>
-      <link>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</link>
-      <pubDate>Sat, 17 Nov 2018 17:49:50 +0900</pubDate>
-      
-      <guid>https://willsmile.github.io/post/2018/2018-11-17-swift-learning-resources-2/</guid>
-      
-        <description>
-
-&lt;h2 id=&#34;text-based&#34;&gt;Text-based&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.swiftbysundell.com&#34;&gt;Swift by Sundell&lt;/a&gt; by John Sundell&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://iosdevweekly.com&#34;&gt;iOS Dev Weekly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://swiftdeveloperblog.com&#34;&gt;Swift Developer Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://oleb.net&#34;&gt;Ole Begemann&amp;rsquo;s Blog&lt;/a&gt; by Ole Begemann&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;video-based&#34;&gt;Video-based&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw&#34;&gt;Sean Allen&amp;rsquo;s iOS Dev Videos&lt;/a&gt; by Sean Allen&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA&#34;&gt;Lets Build That App&lt;/a&gt; by Brian Voong&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg&#34;&gt;Big Mountain Studio&lt;/a&gt; by Mark Moeykens&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;audio-based&#34;&gt;Audio-based&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/swift-by-sundell/id1267161825?mt=2&#34;&gt;Swift by Sundell&lt;/a&gt; by John Sundell&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2&#34;&gt;Swift Unwrapped&lt;/a&gt; by Spec&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/podcast/swift-over-coffee/id1435076502?mt=2&#34;&gt;Swift over Coffee&lt;/a&gt; by Paul Hudson and Sean Allen&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Learning Resources of Swift Language (Structured)</title>
-      <link>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</link>
-      <pubDate>Tue, 13 Nov 2018 13:43:46 +0900</pubDate>
-      
-      <guid>https://willsmile.github.io/post/2018/2018-11-13-swift-learning-resources-1/</guid>
-      
-        <description>
-
-&lt;h2 id=&#34;beginner&#34;&gt;Beginner&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html&#34;&gt;Official language guide&lt;/a&gt; by Swift.org&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/ios-12-app-development-bootcamp/&#34;&gt;Video course &amp;ldquo;iOS 12 app development bootcamp&amp;rdquo;&lt;/a&gt; @Udemy by Angela Yu&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=A0C6L4XmrZM&#34;&gt;Video &amp;ldquo;Introduction to Swift&amp;rdquo;&lt;/a&gt; @Apple WWDC 2014, by Tim Isted and Dave Addey&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;intermediate&#34;&gt;Intermediate&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://onev.cat/publication/swifter/&#34;&gt;Book &amp;ldquo;Swifter - Swift Must Know Tips (in Chinese)&amp;rdquo;&lt;/a&gt; by Wei Wang&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/改訂新版-Swift実践入門-直感的な文法と安全性を兼ね備えた言語-PRESS-plus/dp/477419414X&#34;&gt;Book &amp;ldquo;Swift実践入門 (in Japanese)&amp;rdquo;&lt;/a&gt; by 石川洋資，西山勇世&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/詳解-Swift-第4版-荻原-剛志/dp/4797395184&#34;&gt;Book &amp;ldquo;詳解Swift (in Japanese)&amp;rdquo;&lt;/a&gt; by 荻原剛志&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2015/408/&#34;&gt;Video &amp;ldquo;Protocol-Oriented Programming in Swift&amp;rdquo;&lt;/a&gt; @Apple WWDC 2015, by Dave Abrahams&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/videos/play/wwdc2015/414/&#34;&gt;Video &amp;ldquo;Building Better Apps with Value Types in Swift&amp;rdquo;&lt;/a&gt; @Apple WWDC 2015, by Doug Gregor and Bill Dudney&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.raywenderlich.com/products/design-patterns-by-tutorials&#34;&gt;Book &amp;ldquo;Design Patterns by Tutorials&amp;rdquo;&lt;/a&gt; by Joshua Greene and Jay Strawn&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift&#34;&gt;Book &amp;ldquo;Data Structures and Algorithms in Swift&amp;rdquo;&lt;/a&gt; by Kelvin Lau and Vincent Ngo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;advanced&#34;&gt;Advanced&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://talk.objc.io&#34;&gt;Video series &amp;ldquo;Swift Talk&amp;rdquo;&lt;/a&gt; @objc.io&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.objc.io/books/advanced-swift/&#34;&gt;Book &amp;ldquo;Advanced Swift&amp;rdquo;&lt;/a&gt; by Chris Eidhof, Ole Begemann, and Airspeed Velocity&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.objc.io/books/functional-swift/&#34;&gt;Book &amp;ldquo;Functional Swift&amp;rdquo;&lt;/a&gt; by Chris Eidhof, Florian Kugler, and Wouter Swierstra&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.objc.io/books/app-architecture/&#34;&gt;Book &amp;ldquo;App Architecture&amp;rdquo;&lt;/a&gt; by Chris Eidhof, Matt Gallagher, and Florian Kugler&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Privacy Policy of Vnote App</title>
-      <link>https://willsmile.github.io/post/pivacy-policy-of-vnote/</link>
-      <pubDate>Thu, 11 Oct 2018 20:30:26 +0900</pubDate>
-      
-      <guid>https://willsmile.github.io/post/pivacy-policy-of-vnote/</guid>
-      
-        <description>&lt;p&gt;I, the author of the iOS application named &amp;ldquo;Vnote - Multi-language Note&amp;rdquo;, don’t store your data, period.&lt;/p&gt;
-</description>
+        <description></description>
       
     </item>
     
